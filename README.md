@@ -13,10 +13,10 @@ X (formerly Twitter) is a fast growing online platform where people can create, 
 
 This technique is being used in many fields like e-commerce, health care, entertainments and politics, to name a few. As an example, Sentiment Analysis is useful for companies to monitor consumer opinions regarding their product, and for consumers to choose the best products based on public opinions. The main task is to determine the opinion of the tweet is either positive, negative or a neutral opinion. 
 
-The main challenges of TweetMood Analysis are:
+The main challenges of analyzing the sentiments expressed in tweets are:
 
 1. tweets are generally written in informal language 
 
 2. short messages show limited cues about sentiment 
 
-3. acronyms and abbreviations are widely used on twitter. 
+3. acronyms and abbreviations are widely used on X. 
