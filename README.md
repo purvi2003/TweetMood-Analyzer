@@ -15,8 +15,8 @@ This technique is being used in many fields like e-commerce, health care, entert
 
 The main challenges of analyzing the sentiments expressed in tweets are:
 
-1. tweets are generally written in informal language 
+1. Tweets are generally written in informal language 
 
-2. short messages show limited cues about sentiment 
+2. Short messages show limited cues about sentiment 
 
-3. acronyms and abbreviations are widely used on X. 
+3. Acronyms and abbreviations are widely used on X. 
