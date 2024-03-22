@@ -11,9 +11,9 @@ Introduction:
 
 X (formerly Twitter) is a fast growing online platform where people can create, post, update and read short text messages called tweets. Through tweets, users can share their opinions, views and thoughts about a specific topic. In general, Sentiment Analysis (SA) is the way of identifying and categorizing the polarity of a given text at document, sentence and phrase level. 
 
-This technique is being used in many fields like e-commerce, health care, entertainments and politics, to name a few. As an example, Sentiment Analysis is useful for companies to monitor consumer opinions regarding their product, and for consumers to choose the best products based on public opinions. The main task in Twitter SA is to determine the opinion of the tweet is either positive, negative or a neutral opinion. 
+This technique is being used in many fields like e-commerce, health care, entertainments and politics, to name a few. As an example, Sentiment Analysis is useful for companies to monitor consumer opinions regarding their product, and for consumers to choose the best products based on public opinions. The main task is to determine the opinion of the tweet is either positive, negative or a neutral opinion. 
 
-The main challenges of twitter sentiment analysis are:
+The main challenges of TweetMood Analysis are:
 
 1. tweets are generally written in informal language 
 
